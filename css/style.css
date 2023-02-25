@@ -1,0 +1,76 @@
+/* MAIN SETTINGS */
+html {
+  font-family: "Poppins", sans-serif;
+}
+
+/* NAVIGATION SECTION */
+#navigation {
+  background-color: #d0ebff;
+  padding-bottom: 5rem;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-brand img {
+  width: 96px;
+}
+
+.navbar-expand-lg {
+  justify-content: space-between;
+}
+
+.nav-link {
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  border-bottom: solid 1px #001829;
+  padding: 1rem;
+  margin-bottom: 3rem;
+}
+
+/* PERSONAL INFO */
+
+h1 {
+  margin-top: 1rem;
+  font-size: 3rem;
+  font-family: "Poppins", sans-serif;
+  color: #001829;
+}
+
+h2 {
+  margin-top: 1rem;
+  font-size: 2.5rem;
+  font-family: "Poppins", sans-serif;
+  color: #001829;
+}
+
+.subtitle {
+  font-size: 2rem;
+  font-family: "Poppins", sans-serif;
+  color: #001829;
+}
+
+/* ABOUT ME SECTION */
+#about-me {
+  margin: 5% 0 3%;
+}
+
+.bio-img {
+  width: 12.5rem;
+  height: 12.5rem;
+}
+
+.bio-text {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  font-family: "Poppins", sans-serif;
+  color: #1864ab;
+}
+
+.bio-row {
+  margin-bottom: 3rem;
+}
